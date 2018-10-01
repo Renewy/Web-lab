@@ -247,3 +247,9 @@ border-right: none;
 td:nth-child(2){
 text-align: left;
 }
+
+
+#figure1
+{
+	float;
+}
